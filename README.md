@@ -1,2 +1,3 @@
 # meu_projeto_versionado
-Curso Git.
+
+Iniciando meu projeto versionado através do Curso Udemy.
